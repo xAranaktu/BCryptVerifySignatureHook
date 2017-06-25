@@ -1,0 +1,2 @@
+# BCryptVerifySignatureHook
+BCryptVerifySignature Hook
